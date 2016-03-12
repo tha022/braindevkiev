@@ -22,6 +22,6 @@ public class HomeController extends Controller {
     }
 
     public Result braindev() {
-        return ok("Hello from BrainDev Kyiv");
+        return ok("Hello from BrainDev Kyiv. Here is version 2");
     }
 }
